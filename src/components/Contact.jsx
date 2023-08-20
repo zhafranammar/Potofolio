@@ -47,7 +47,7 @@ function Contact() {
 
         <button
           type="submit"
-          className="bg-yellow-400 text-gray-800 rounded px-5 py-2 hover:bg-yellow-300"
+          className="bg-[#E0DDAA] text-[#203239] rounded px-5 py-2 hover:bg-[#EEEDDE] font-adlam"
         >
           Send Message
         </button>
